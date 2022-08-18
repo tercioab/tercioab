@@ -1,11 +1,11 @@
 
 
 
-<h1 >Olá 👋</h1>
+<h1  align="center" >Olá 👋</h1>
 <div>
   
   <section>
-  <p>Me chamo <b>Walthercio Almeida</b> mas pode me chamar apenas de Tercio eu tenho 26 anos, morando atualmente em São José Dos Campos/SP  sou uma pessoa que ama Programação (amor passado de pai pra filho(eu)). No meu tempo livre gosto 
+  <p  align="center"  >Me chamo <b>Walthercio Almeida</b> mas pode me chamar apenas de Tercio eu tenho 26 anos, morando atualmente em São José Dos Campos/SP  sou uma pessoa que ama Programação (amor passado de pai pra filho(eu)). No meu tempo livre gosto 
   de assisstir series, filmes e produzir algumas musicas via fl Studio. 
  Sou uma pessoa que presa muito pela colaboração e empatia no local de trabalho acho que esses são principios basicos para um bom trabalho em grupo e uma boa convivência. </p>
 
@@ -42,13 +42,13 @@
 </br>
 
 ##
-<h1 >Minhas Skills</h1>
+<h1  align="center" >Minhas Skills</h1>
 
-<table><tr><td >
+<table>
 
 
-### Frontend
-<div align="center">
+<h1  align="center"> Frontend</h1>
+<div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -56,9 +56,17 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 </div>
+</table>
 
+<table><tr>
 
-</td></tr></table>
+<h1  align="center">DevOps </h1>
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+</div>
+</tr></table>
 
 <br/>
 
@@ -78,19 +86,3 @@
 <br/>
 
 <br/>
-
-##
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
