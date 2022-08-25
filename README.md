@@ -27,11 +27,9 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; align-conten: center; width: 80%; flex-wrap: wrap; margin: 0 auto;">
   <a href="https://github.com/tercioab" align="center"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tercioab&show_icons=true&theme=material-palenight" width="400px" align="center"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=tercioab&show_icons=true&theme=material-palenight" width="400px" />
   </a>
-  <a href="https://github.com/tercioab" align="center"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tercioab&&layout=compact&langs_count=7&theme=material-palenight" width="330px" align="center"/>
-  </a>
+ 
   <a href="https://github.com/tercioab" />
     <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=tercioab&&theme=material-palenight" alt="tercioab"/>
   </a>
