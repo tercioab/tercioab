@@ -19,8 +19,6 @@
 - 🌱 Atualmente estudando React.js
 
 
-- ⚡ Fato curioso: com 12 anos eu fiz um curso de html e flash (na época não não tinha vsCode não, era no bloco de notas kkk)
-
 
 <br/>
 
