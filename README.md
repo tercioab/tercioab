@@ -1,12 +1,14 @@
 
 
 
- Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) me chamo Walthércio(TERCIO)
+ Olá me chamo Walthércio(TERCIO) <br/>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=500&color=000000&width=435&lines=seja+bem+vindo;ao+meu+github)](https://git.io/typing-svg)
 ====================================================================================================================================================
 <div>
+ 
   
   <section>
-  <p  align="center"  >Me chamo <b>Walthercio Almeida</b> mas pode me chamar apenas de Tercio eu tenho 26 anos, morando atualmente em São José Dos Campos/SP  sou uma pessoa que ama Programação (amor passado de pai pra filho(eu)). No meu tempo livre gosto 
+  <p  align="initial"  >Atualmente residindo em São José Dos Campos/SP  sou uma pessoa que ama Programação (amor passado de pai pra filho(eu)). No meu tempo livre gosto 
   de assisstir series, filmes e produzir algumas musicas via fl Studio. 
  Sou uma pessoa que presa muito pela colaboração e empatia no local de trabalho acho que esses são principios basicos para um bom trabalho em grupo e uma boa convivência. </p>
 
@@ -50,8 +52,8 @@
 
 
 
-<h1 align="center" >Skills</h1>
-<p align="center">
+<h1 align="initial" >Skills</h1>
+<p align="initial">
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -65,7 +67,7 @@
 
 </p>
 
-<h1 align="center" >Socials</h1>
+<h1 align="initial" >Socials</h1>
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/walthercio-almeida/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="initial"> <a href="https://www.linkedin.com/in/walthercio-almeida/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
