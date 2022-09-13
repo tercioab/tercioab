@@ -15,7 +15,7 @@
 ###
 
 
-- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web [Trybe](https://www.betrybe.com/)
+- 🔭 Atualmente sou estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
 
 
 - 🌱 Atualmente estudando React.js
