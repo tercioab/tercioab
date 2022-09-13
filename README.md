@@ -1,7 +1,7 @@
 
 
 
- Olá me chamo Walthércio(TERCIO) <br/>
+ Olá me chamo Walthércio<br/>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=500&color=000000&width=435&lines=seja+bem+vindo;ao+meu+github)](https://git.io/typing-svg)
 ====================================================================================================================================================
 <div>
