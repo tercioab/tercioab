@@ -7,18 +7,17 @@
 <div>
  
   
-  <section>
-  <p  align="initial"  >Atualmente residindo em São José Dos Campos/SP  sou uma pessoa que ama Programação (amor passado de pai pra filho(eu)). No meu tempo livre gosto 
-  de assisstir series, filmes e produzir algumas musicas via fl Studio. 
- Sou uma pessoa que presa muito pela colaboração e empatia no local de trabalho acho que esses são principios basicos para um bom trabalho em grupo e uma boa convivência. </p>
 
 ###
 
 
-- 🔭 Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
+- Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
 
 
-- 🌱 Atualmente estudando React.js
+- Atualmente estudando React.js
+
+
+- Contato: https://www.linkedin.com/in/walthercio-almeida/
 
 
 
