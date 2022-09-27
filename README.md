@@ -10,16 +10,29 @@
 
 ###
 
+Sobre mim
 
-- Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
+- 💻 Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
 
 
-- Atualmente estudando React.js
+- 💻 Viciado em codar
 
+
+- 📚 Muito curioso 
+
+
+- 👨‍💻 Amo Front End
 
 - Contato: https://www.linkedin.com/in/walthercio-almeida/
 
-
+ Atualmente estou estudando mais sobre:
+ 
+ <img alt="material ui logo" src="https://img.icons8.com/color/452/material-ui.png" width='50' height='50'  /> </br>
+ 
+ Tecnologias que eu pretendo estudar em um futuro próximo:
+ 
+  <img alt="typescript logo" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width='50' height='50'  />
+  <img alt="angular logo" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width='50' height='50'  /></br>
 
 ##
 
