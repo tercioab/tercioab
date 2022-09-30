@@ -14,14 +14,13 @@ Sobre mim
 
 - 💻 Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
 
-
 - 💻 Viciado em codar
-
 
 - 📚 Muito curioso 
 
+-  ❤ Amo Tec
 
-- 👨‍💻 Amo Front End
+- 👨‍💻 Resolver Tasks faz meu dia
 
 - Contato: https://www.linkedin.com/in/walthercio-almeida/
 
