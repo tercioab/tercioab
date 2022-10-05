@@ -22,7 +22,7 @@ Sobre mim
 
 - 👨‍💻 Resolver Tasks faz meu dia
 
-- Contato: https://www.linkedin.com/in/walthercio-almeida/
+- [linkedin](https://www.linkedin.com/in/walthercio-almeida/)
 
  Atualmente estou estudando mais sobre:
  
