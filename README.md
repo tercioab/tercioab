@@ -22,6 +22,8 @@ Sobre mim
 
 - 👨‍💻 Resolver Tasks faz meu dia
 
+- EMAIL: walthercioab@gmail.com
+
 - [linkedin](https://www.linkedin.com/in/walthercio-almeida/)
 
  
