@@ -12,15 +12,11 @@
 
 Sobre mim
 
-- 💻 Estudante de Desenvolvimento de Software Web na [Trybe](https://www.betrybe.com/)
+- 💻 Estudante de Desenvolvimento Full-stack Web na [Trybe](https://www.betrybe.com/)
 
 - 💻 Viciado em codar
 
-- 📚 Muito curioso 
-
--  ❤ Amo Tec
-
-- 👨‍💻 Resolver Tasks faz meu dia
+- 📚 Movido pela curiosidade 
 
 - EMAIL: walthercioab@gmail.com
 
@@ -94,10 +90,6 @@ Sobre mim
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; align-conten: center; width: 80%; flex-wrap: wrap; margin: 0 auto;">
 
-   <a href="https://github.com/tercioab" align="center"><img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tercioab&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- 
-  <a href="https://github.com/tercioab" />
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=tercioab&theme=react&locale=pt-br&date_format=n%2Fj%5B%2FY%5D&fire=FFFFFF&background=000000&ring=0891B2&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=DDDDDA" alt="tercioab"/>
-  </a>
+
  
  
