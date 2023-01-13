@@ -14,8 +14,6 @@ Sobre mim
 
 - 💻 Estudante de Desenvolvimento Full-stack Web na [Trybe](https://www.betrybe.com/)
 
-- 💻 Viciado em codar
-
 - 📚 Movido pela curiosidade 
 
 - EMAIL: walthercioab@gmail.com
