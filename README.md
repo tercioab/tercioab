@@ -12,9 +12,9 @@
 
 Sobre mim
 
-- 💻 Desenvolvedor Web Full-stack
+- 💻 Web Full-stack Developer
 
-- 📚 Movido pela curiosidade 
+- 📚 Moved by curiosity
 
 - EMAIL: walthercioab@gmail.com
 
