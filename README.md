@@ -10,7 +10,7 @@
 
 ###
 
-Sobre mim
+About me
 
 - 💻 Web Full-stack Developer
 
