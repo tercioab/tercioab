@@ -12,7 +12,7 @@
 
 Sobre mim
 
-- 💻 Estudante de Desenvolvimento Full-stack Web na [Trybe](https://www.betrybe.com/)
+- 💻 Desenvolvedor Web Full-stack
 
 - 📚 Movido pela curiosidade 
 
