@@ -22,10 +22,7 @@ About me
 
  
     
-   <div align='center'>
-<a height="150em" href="http://www.github.com/tercioab">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tercioab&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tercioab&theme=gruvbox&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&stroke=FFFFFF&background=482704&ring=00A1EB&fire=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&border=EBEBEB&sideLabels=EBEBEB&dates=EB5B00)](https://git.io/streak-stats)
  
 ##
 
