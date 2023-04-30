@@ -60,7 +60,13 @@ About me
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+  <a href="https://jwt.io/" target="_blank"><img style="margin: 10px" src="http://jwt.io/img/icon.svg" alt="Jwt" height="50" /></a>  
 </div>
+ 
+
+
+ 
+
 
 </td><td valign="top" width="33%">
 
