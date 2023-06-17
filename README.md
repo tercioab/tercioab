@@ -22,7 +22,7 @@ About me
 
  
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tercioab&theme=gruvbox&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&stroke=FFFFFF&background=482704&ring=00A1EB&fire=EBEBEB&sideNums=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&border=EBEBEB&sideLabels=EBEBEB&dates=EB5B00)](https://git.io/streak-stats)
+
  
 ##
 
